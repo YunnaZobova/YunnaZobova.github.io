@@ -1,0 +1,112 @@
+body {
+  background-color: #ffffff;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #89e6dc;
+}
+h2 {
+  color: #f9ec00;
+  background-color: #a7fe8f;
+  font-weight: bold;
+  text-align: center;
+}
+.posv {
+  color: #a7fe8f;
+  text-align: center;
+  font-weight: bold;
+ }
+.glava {
+  color: #a7fe8f;
+  text-decoration: underline;
+  font-weight: bold;
+}
+.ogl {
+  background-color: #ffffff;
+  height: 50px;
+  overflow: auto;
+}
+.img1 {
+  float: right;
+  width: 534px;
+  height: 759px;
+}
+.img2 {
+  float: left;
+  width: 300px;
+  height: 150px;
+  clear: left;
+}
+.img3 {
+  float: left;
+  width: 300px;
+  height: 120px;
+  clear: left;
+}
+.img4 {
+  float: left;
+  width: 350px;
+  height: 110px;
+  clear: left;
+}
+.img5 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  clear: left;
+}
+.img51 {
+  float: left;
+  width: 150px;
+  height: 105px;
+  clear: left;
+}
+.img6 {
+  float: left;
+  width: 150px;
+  height: 105px;
+  clear: left;
+}
+.img7 {
+  float: left;
+  width: 150px;
+  height: 105px;
+  clear: left;
+}
+.img8 {
+  float: left;
+  width: 150px;
+  height: 105px;
+  clear: left;
+}
+.img9 {
+  float: left;
+  width: 170px;
+  height: 250px;
+  clear: left;
+}
+.img10 {
+  float: left;
+  width: 150px;
+  height: 150px;
+  clear: left;
+}
+.img11 {
+  float: left;
+  width: 150px;
+  height: 150px;
+  clear: left;
+}
+.img12 {
+  float: left;
+  width: 150px;
+  height: 150px;
+  clear: left;
+}
+.img13 {
+  float: center;
+  width: 100px;
+  height: 100px;
+}
+
